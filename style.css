@@ -1,0 +1,95 @@
+body {
+    position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #7059B0;
+background-size: cover;
+}
+
+.imagem {
+    position: absolute;
+width: 116px;
+height: 134px;
+left: 862px;
+top: 82px;
+
+background: url(trofeu.png);
+}
+
+.l1 {
+    position: absolute;
+width: 83px;
+height: 39px;
+left: 605px;
+top: 282px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+
+color: #F5F5F5;
+}
+
+.c1 {
+    position: absolute;
+width: 710px;
+height: 75px;
+left: 605px;
+top: 330px;
+
+background: #EC9696;
+border-radius: 15px;
+}
+
+.s2 {
+    position: absolute;
+width: 95px;
+height: 39px;
+left: 605px;
+top: 445px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #F5F5F5;
+}
+
+.c2 {
+    position: absolute;
+width: 710px;
+height: 74px;
+left: 605px;
+top: 494px;
+
+background: #EC9696;
+border-radius: 15px;
+}
+
+.x1 {
+    position: absolute;
+width: 178px;
+height: 63px;
+left: 605px;
+top: 679px;
+
+background: #71F0F9;
+border-radius: 15px;
+}
+
+.x2 {
+    position: absolute;
+width: 214px;
+height: 63px;
+left: 1101px;
+top: 679px;
+
+background: #71F0F9;
+border-radius: 15px;
+}
