@@ -14,7 +14,7 @@ height: 134px;
 left: 862px;
 top: 82px;
 
-background: url(trofeu.png);
+background: url("trofeu.png");
 }
 
 .l1 {
@@ -78,6 +78,7 @@ width: 178px;
 height: 63px;
 left: 605px;
 top: 679px;
+cursor: pointer;
 
 background: #71F0F9;
 border-radius: 15px;
@@ -89,7 +90,172 @@ width: 214px;
 height: 63px;
 left: 1101px;
 top: 679px;
+cursor: pointer;
 
 background: #71F0F9;
 border-radius: 15px;
+}
+
+
+h1 {
+    position: absolute;
+width: 349px;
+height: 77px;
+left: 772px;
+top: 57px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+text-decoration-line: underline;
+
+color: #000000;
+
+}
+
+.n {
+    position: absolute;
+width: 114px;
+height: 31px;
+left: 628px;
+top: 223px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #020202;
+}
+
+.n2 {
+    position: absolute;
+width: 673px;
+height: 60px;
+left: 623px;
+top: 265px;
+
+background: #71F0F9;
+border-radius: 15px;
+}
+
+.s {
+    position: absolute;
+width: 202px;
+height: 39px;
+left: 623px;
+top: 353px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+}
+
+.s5 {
+    position: absolute;
+width: 673px;
+height: 60px;
+left: 623px;
+top: 403px;
+
+background: #71F0F9;
+border-radius: 15px;
+}
+
+.e {
+    position: absolute;
+width: 96px;
+height: 39px;
+left: 623px;
+top: 495px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+}
+
+.e2 {
+    position: absolute;
+width: 673px;
+height: 60px;
+left: 623px;
+top: 545px;
+
+background: #71F0F9;
+border-radius: 15px;
+}
+
+.sn {
+    position: absolute;
+width: 109px;
+height: 39px;
+left: 623px;
+top: 646px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+
+color: #000000;
+}
+
+.sn2 {
+    position: absolute;
+width: 673px;
+height: 60px;
+left: 623px;
+top: 696px;
+
+background: #71F0F9;
+border-radius: 15px;
+}
+
+.b1 {
+    position: absolute;
+width: 288px;
+height: 62px;
+left: 803px;
+top: 830px;
+
+background: #71F0F9;
+border-radius: 10px;
+
+position: absolute;
+width: 192px;
+height: 39px;
+left: 851px;
+top: 841px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 39px;
+font-weight: bold;
+cursor: pointer;
+
+color: #000000;
+}
+
+.imagem2 {
+    position: absolute;
+width: 80px;
+height: 93px;
+left: 631px;
+top: 41px;
+
+background: url("trofeu2.png");
 }
